@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "延々",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-08T07:35:40.708382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "延々 - Enen",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_延々_-_Enen_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "延々",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_延々_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
